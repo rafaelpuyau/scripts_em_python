@@ -5,4 +5,4 @@ Aqui você encontrará alguns _scripts básicos_ de quando eu iniciei a programa
 
 Espero que gostem e que possamos trocar conhecimento em python.
 
-knowledge built to last!
+knowledge built to last
